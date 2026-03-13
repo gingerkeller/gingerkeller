@@ -1,6 +1,10 @@
 ## Hi, I'm Ginger Keller.
 
-Experienced full-stack developer focused on Rest APIs, DevOps, mobile apps. Most of my production work lives in private company repositories due to NDAs and security policies. Happy to walk through architecture, decisions, and code samples in interviews or calls. Open to discussing personal/side projects on request.
+Experienced full-stack developer focused on Rest APIs, DevOps, mobile apps.  
+
+Most of my production work lives in private company repositories due to NDAs and security policies. Happy to walk through architecture, decisions, and code samples in interviews or calls.  
+
+Open to discussing personal/side projects on request.
 
 <!--
 **gingerkeller/gingerkeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
